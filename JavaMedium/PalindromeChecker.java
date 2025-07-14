@@ -1,7 +1,5 @@
 package JavaMedium;
 import java.util.*;
-
-import javaBasic.reversed;
 public class PalindromeChecker {
     public static boolean isPalindrome(String str)
     {

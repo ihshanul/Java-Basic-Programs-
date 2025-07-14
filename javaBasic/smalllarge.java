@@ -1,6 +1,10 @@
 package javaBasic;
+import AdvancesLoopingQuestions.*;
 public class smalllarge {
+     
+    
     public static void main(String[] args) {
+       
         int [] numbers = {45,89,34,66,90,100};
         int largest = numbers[0];
         int smallest = numbers[0];
@@ -17,6 +21,7 @@ public class smalllarge {
         }
         System.out.println("The Largest Number In The Array is :" +largest);
         System.out.println("The smallest Number In The Array is :"+ smallest);
+        
         
     }
 }
